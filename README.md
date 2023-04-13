@@ -1,4 +1,3 @@
-# Numpy
 
 ![numpy](https://user-images.githubusercontent.com/87325345/231703729-f64d5bfe-ded4-4d48-b397-32fb2a7bc4bf.png)
 
